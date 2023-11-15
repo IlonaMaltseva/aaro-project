@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="81px" viewBox="0 0 83 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 11</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About" transform="translate(-351.000000, -717.000000)">
+            <g id="Overview" transform="translate(46.000000, 582.000000)">
+                <g id="Group-11" transform="translate(310.000000, 136.000000)">
+                    <g id="Group" transform="translate(-0.000000, 0.000000)" opacity="0.564290365">
+                        <path d="M0,37.5 C0,16.7895545 16.7894486,0.000105887037 37.4998941,0.000105887037 C58.2108691,0.000105887037 74.9997882,16.7895545 74.9997882,37.5 C74.9997882,58.2104455 58.2108691,74.9998941 37.4998941,74.9998941 C16.7894486,74.9998941 0,58.2104455 0,37.5" id="Fill-108" fill="#FFFFFF"></path>
+                        <path d="M37.4999471,75 C16.7895015,75 5.29435182e-05,58.2105514 5.29435182e-05,37.5001059" id="Stroke-111" stroke="#0D76BD" stroke-width="10"></path>
+                        <path d="M74.9999471,37.5 C74.9999471,58.2104455 58.2104985,74.9998941 37.5000529,74.9998941" id="Stroke-112" stroke="#0D76BD" stroke-width="6"></path>
+                        <path d="M37.4999471,0 C58.210922,0 74.9998412,16.7894486 74.9998412,37.4998941" id="Stroke-113" stroke="#0D76BD" stroke-width="2"></path>
+                    </g>
+                    <polygon id="Path-3" fill="#001335" transform="translate(34.818948, 37.500000) rotate(-45.000000) translate(-34.818948, -37.500000) " points="39.8094696 27.1715729 45.4663238 47.8284271 24.1715729 42.1715729"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
